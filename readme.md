@@ -13,7 +13,7 @@ today i begin to use some tools to improve productivity.
 
 * toolName | url | description
 + \- | \- | \-
-+ baidu naotu |naotu.baidu.com | a picture about mind
++ baidu naotu |naotu.baidu.com | a picture about mind .GFW语法，类似于markdown.
 + firefox tomato | firefox | a tool to measure time,time to splite pieces per 25 in
 vim | no url | a powerful and powerful editor
 
